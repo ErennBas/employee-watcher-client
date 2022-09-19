@@ -1,0 +1,26 @@
+{
+  "name": "employee-watcher-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErennBas/employee-watcher-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErennBas/employee-watcher-client/issues"
+  },
+  "homepage": "https://github.com/ErennBas/employee-watcher-client#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "screenshot-desktop": "^1.12.7",
+    "socket.io": "^4.5.2",
+    "socket.io-client": "^4.5.2",
+    "uuid": "^9.0.0"
+  }
+}
